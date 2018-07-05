@@ -51,3 +51,8 @@ a:visited {
 .contact {
   line-height: 2.0;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
